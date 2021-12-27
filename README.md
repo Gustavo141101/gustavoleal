@@ -1,6 +1,6 @@
 # Olá! Eu sou o Gustavo Leal!
 - 💻 Hoje estou estagiando na empresa Stefanini
-- ☘ Cursando Análise de Desenvolvimento de Sistemas
+- ☘ Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Contate-me no email: gustavo.leal@bandtec.com.br
 
 <div align="center">
